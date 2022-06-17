@@ -9,8 +9,10 @@ GEM
       tzinfo (~> 1.1)
     apitools-middleware (0.1.0)
       semantic
+    concurrent-ruby (1.1.10)
     highline (1.6.21)
-    i18n (0.6.11)
+    i18n (0.9.5)
+      concurrent-ruby (~> 1.0)
     json (1.8.1)
     minitest (5.4.0)
     rake (10.3.2)
